@@ -1,0 +1,30 @@
+header{
+    font-family: Arial;
+    background-color: #003366;
+    margin: 20px;
+    color: #aec3e3;
+    text-align: center;
+}
+  
+body{
+    color: #003366;
+    font-family: Verdana; 
+}
+header h1{
+  line-height: 200%;  
+  text-indent: 1em;
+}
+nav{
+    font-weight:bold;
+}
+  h3{
+    color: #5280c5;
+    text-indent: 1.1em;
+    font-family: Georgia;
+  }
+  #wrapper {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
