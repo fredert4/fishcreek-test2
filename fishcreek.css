@@ -5,19 +5,19 @@ header{
     color: #aec3e3;
     text-align: center;
 }
-  
-body{
-    color: #003366;
-    font-family: Verdana; 
-}
 header h1{
   line-height: 200%;  
   text-indent: 1em;
 }
 nav{
-    font-weight:bold;
+  font-weight:bold;
+
 }
-  h3{
+main{
+    color: #003366;
+    font-family: Verdana; 
+}
+   li{
     color: #5280c5;
     text-indent: 1.1em;
     font-family: Georgia;
@@ -27,4 +27,12 @@ nav{
     margin-left: auto;
     margin-right: auto;
   }
-
+.category{
+  font-weight: bold;
+  color: #5280c5;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+footer{
+  font-size: .70em;
+  font-style: italic;
+}
